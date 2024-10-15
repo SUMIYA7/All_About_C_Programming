@@ -8,9 +8,11 @@ This problem doesn't have any input
 Output Format
 
 Print the line "Hello World!" (without quotation).
-Sample Output 0
+Sample Output :
 
-Hello World!*/
+Hello World! */
+
+/*Solution*/
 
 #include<stdio.h>
 int main() 
